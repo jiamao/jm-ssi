@@ -1,0 +1,4 @@
+<!--#if expr="${name} = /fefeding/"-->
+<!--#set var = "IS_V5_GRAY" value = "1" -->
+<!--# include file="./echo.shtml" stub="one" -->
+<!--#endif-->
