@@ -1,2 +1,6 @@
 <!--#echo var="IS_V5_GRAY" default="0" -->
 fefeding
+
+<script>
+    var a2 = /\d+/.test("312");
+    </script>

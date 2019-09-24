@@ -1,6 +1,6 @@
 {
   "name": "jm-ssi",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "nodejs ssi",
   "main": "index.js",
   "scripts": {

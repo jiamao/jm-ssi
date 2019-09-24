@@ -1,4 +1,10 @@
+<script>
+    var a = /\d+/.test("312");
+    </script>
+
 <!--#if expr="${name} = /fefeding/"-->
 <!--#set var = "IS_V5_GRAY" value = "1" -->
 <!--# include file="./echo.shtml" stub="one" -->
 <!--#endif-->
+
+tttt
